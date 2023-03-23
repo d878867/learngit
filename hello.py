@@ -1,1 +1,3 @@
 def abc
+    class ABC
+    
