@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick new.
 branch no-ff merge.
 branch dawang to dev merge.
+go to bug first.
